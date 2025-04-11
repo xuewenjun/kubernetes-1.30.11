@@ -1,0 +1,1 @@
+FROM registry.k8s.io/lws/lws:v0.5.1
